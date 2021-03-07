@@ -2,7 +2,7 @@
 
 // CONFIGURATION
 
-define('FLOWERPOT_ROOT_URL', 'XXXX');
+define('FLOWERPOT_ROOT_URL', 'https://storage.5apps.com/chckyn/public/wikiavec/');
 
 // SETUP
 
